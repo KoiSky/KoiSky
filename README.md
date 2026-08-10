@@ -1,16 +1,18 @@
-## Hi there 👋
+## Introduction 👋
 
-<!--
-**KoiSky/KoiSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Luis (or KoiSky). Junior Data Analyst with experience in data analysis, data cleaning, data visualization, and database modeling.  
 
-Here are some ideas to get you started:
+• Data Analysis and documenting using Excel and Google Sheets.  
+• Querying data using SQL  
+• Developing database models using PowerBI and Tableau  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 My Portfolio
+My Projects (currently completing)  
+
+### 🔨 Tools
+Language: SQL, Python  
+Database: MySQL  
+Visualization: Tableau, PowerBI  
+
+### 📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/john-ornedo)
