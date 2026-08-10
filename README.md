@@ -11,7 +11,7 @@ My Projects (currently completing)
 
 ### 🔨 Tools
 Language: SQL, Python  
-Database: MySQL  
+Database: MySQL, PostgreSQL  
 Visualization: Tableau, PowerBI  
 
 ### 📫 How to reach me:
