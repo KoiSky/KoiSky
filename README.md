@@ -6,17 +6,17 @@
 
 Hello, I'm Luis (or KoiSky). Junior Data Analyst with experience in data analysis, data cleaning, data visualization, and database modeling.  
 
-• Data Analysis and documenting using Excel and Google Sheets.  
-• Querying data using SQL  
-• Developing database models using PowerBI and Tableau  
++ Transforming Data and Documenting using Excel and Google Sheets.
++ Analyzing & Cleaning data using SQL.
++ Developing database models using PowerBI and Tableau.
 
 ### 📚 My Portfolio
-[My Projects](https://github.com/KoiSky/Portfolio)  
+Here are [My Projects](https://github.com/KoiSky/Portfolio).  
 
 ### 🔨 Tools
-Language: SQL, Python  
-Database: MySQL, PostgreSQL  
-Visualization: Tableau, PowerBI  
+- Language: SQL, Python
+- Database: MySQL
+- Visualization: Tableau, PowerBI
 
 ### 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/john-ornedo)
+- [LinkedIn](https://www.linkedin.com/in/john-ornedo)
