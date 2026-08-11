@@ -4,10 +4,10 @@
 
 
 
-Hello, I'm Luis (or KoiSky). Junior Data Analyst with experience in data analysis, data cleaning, data visualization, and database modeling.  
+Hello, I'm Luis (or KoiSky). Aspiring data analyst studying data engineering and database modeling.  
 
-+ Transforming Data and Documenting using Excel and Google Sheets.
-+ Analyzing & Cleaning data using SQL.
++ Transforming data and documenting using excel and google sheets.
++ Analyzing & cleaning data using SQL.
 + Developing database models using PowerBI and Tableau.
 
 ### 📚 My Portfolio
