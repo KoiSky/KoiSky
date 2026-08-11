@@ -11,7 +11,7 @@ Hello, I'm Luis (or KoiSky). Junior Data Analyst with experience in data analysi
 • Developing database models using PowerBI and Tableau  
 
 ### 📚 My Portfolio
-[My Projects](#portfolio)  
+[My Projects](https://github.com/KoiSky/Portfolio))  
 
 ### 🔨 Tools
 Language: SQL, Python  
