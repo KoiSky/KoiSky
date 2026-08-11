@@ -6,7 +6,7 @@
 
 Hello, I'm Luis (or KoiSky). Aspiring data analyst studying data engineering and database modeling.  
 
-+ Transforming data and documenting using excel and google sheets.
++ Transforming and visualizing data using Python.
 + Analyzing & cleaning data using SQL.
 + Developing database models using PowerBI and Tableau.
 
