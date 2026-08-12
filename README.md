@@ -4,7 +4,7 @@
 
 
 
-Hello, I'm Luis (or KoiSky). Aspiring data analyst studying data engineering and database modeling.  
+Hello, I'm Luis (or KoiSky). Aspiring data analyst studying data engineering and database development.  
 
 + Transforming and visualizing data using Python.
 + Analyzing & cleaning data using SQL.
