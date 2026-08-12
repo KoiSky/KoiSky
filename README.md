@@ -8,7 +8,7 @@ Hello, I'm Luis (or KoiSky). Aspiring data analyst studying data engineering and
 
 + Transforming and visualizing data using Python.
 + Analyzing & cleaning data using SQL.
-+ Developing database models using PowerBI and Tableau.
++ Developing database models using PowerBI.
 
 ### 📚 My Portfolio
 Here are [My Projects](https://github.com/KoiSky/Portfolio).  
@@ -16,7 +16,7 @@ Here are [My Projects](https://github.com/KoiSky/Portfolio).
 ### 🔨 Tools
 - Language: SQL, Python
 - Database: MySQL
-- Visualization: Tableau, PowerBI
+- Visualization: PowerBI
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/john-ornedo)
