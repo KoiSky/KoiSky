@@ -15,7 +15,7 @@ Here are [My Projects](https://github.com/KoiSky/Portfolio).
 
 ### 🔨 Tools
 - Language: SQL, Python
-- Database: MySQL
+- Database: PostgreSQL, MySQL
 - Visualization: PowerBI
 
 ### 📫 How to reach me:
