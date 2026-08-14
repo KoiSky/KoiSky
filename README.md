@@ -20,4 +20,4 @@ Here are [My Projects](https://github.com/KoiSky/Portfolio).
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/john-ornedo)
-- or hire me in [Upwork](https://www.upwork.com/freelancers/~016dc1ffa945d12c33)
+- or hire me on [Upwork](https://www.upwork.com/freelancers/~016dc1ffa945d12c33)
